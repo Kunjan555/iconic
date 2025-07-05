@@ -106,7 +106,7 @@ function App() {
         <footer className="footer">
           <div className="container-fluid">
             <div className="row row-gap-5">
-              <div className="col-2 col-md-2">
+              <div className="col-4 col-md-2">
                 <div className="footer-logo">
                   <img className='w-100' src='./imgs/logo.png' alt="Footer Logo" />
                 </div>
