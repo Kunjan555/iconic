@@ -67,7 +67,7 @@ function App() {
             {/* Hamburger */}
             <div className='hamburger d-block d-md-none'>
               <a
-                href="#"
+                href="javascript:void(0)"
                 className='hamburger-link'
                 onClick={(e) => {
                   e.preventDefault();
