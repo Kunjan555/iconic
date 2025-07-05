@@ -125,8 +125,8 @@ function App() {
                 <div className="footer-social">
                   <h4 className="footer-title">Follow Us</h4>
                   <ul className="list-unstyled d-flex gap-4">
-                    <li><a href='https://www.facebook.com/profile.php?id=61578101009388' className='social-icon'><FontAwesomeIcon icon={faFacebookF} /></a></li>
-                    <li><a href='https://www.instagram.com/iconic_switchgear?igsh=MWxkeGh1aDJ4bThodg==' className='social-icon'><FontAwesomeIcon icon={faInstagram} /></a></li>
+                    <li><a href='https://www.facebook.com/profile.php?id=61578101009388' target='_blank' title='Opens in a new window - Facebook' className='social-icon'><FontAwesomeIcon icon={faFacebookF} /></a></li>
+                    <li><a href='https://www.instagram.com/iconic_switchgear?igsh=MWxkeGh1aDJ4bThodg==' target='_blank' title='Opens in a new window - Instagram' className='social-icon'><FontAwesomeIcon icon={faInstagram} /></a></li>
                   </ul>
                 </div>
               </div>
