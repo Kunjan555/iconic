@@ -1,0 +1,49 @@
+{
+    "home": {
+        "imgText": {
+            "about": {
+                "title": "Your Trusted Partner in Industrial Components",
+                "description": "<p><b>Supplying quality moduling bushings, switchgear parts, and custom modules to power your systems.</b></p> <p>With a focus on reliability and performance, we serve industries like power systems, automotive, and engineering with high-grade electrical and mechanical components.</p>",
+                "image": "/imgs/product-img-3.jpeg",
+                "link": "/about",
+                "linktext": "Learn More About Us"
+            },
+            "product": {
+                "title": "Explore Our Product Range",
+                "description": "<h6>High-performance components for industrial, electrical, and mechanical applications.</h6> <p>From moduling bushings to switchgear and custom modules — discover durable and cost-effective solutions built for demanding environments.</p>",
+                "image": "/imgs/product-img-1.jpeg",
+                "link": "/products",
+                "linktext": "View All Products"
+            },
+            "contact": {
+                "title": "Let’s Connect",
+                "description": "<h6>Have questions or need a custom solution?</h6> <p>Our team is ready to support your industrial component needs with expert advice and responsive service. Reach out today!</p>",
+                "image": "/imgs/product-img-2.jpeg",
+                "link": "/conatct",
+                "linktext": "Contact Us"
+            }
+        },
+        "banner": {
+            "img": "/imgs/banner-img.avif",
+            "title": "Your Source for Reliable Industrial Components",
+            "description1": "Delivering high-quality moduling bushings, switchgear parts, and custom modules for power systems, automotive, and engineering sectors.",
+            "description2": "We specialize in supplying durable and cost-effective solutions backed by technical support and a commitment to service excellence."
+        }
+    },
+    "contact": {
+        "banner": {
+            "img": "/imgs/contact-banner-img.jpeg"
+        }
+    },
+    "about": {
+        "banner": {
+            "img": "/imgs/about-banner-img.jpeg"
+        },
+        "content": "<div class=\"company-intro\"><h4>We are a trading company engaged in the supply and distribution of <strong>moduling bushings</strong> and various types of <strong>electrical</strong> and <strong>mechanical modules</strong>. Our core focus is providing high-quality industrial components that meet the needs of sectors such as <strong>switchgear</strong>, <strong>power systems</strong>, <strong>automotive</strong>, and <strong>engineering applications</strong>.</h4><h3>We specialize in:</h3><ul><li>Moduling Bushings</li><li>Switchgear Components</li><li>Electrical Modules</li><li>Custom Module Solutions</li></ul><h6>Our mission is to deliver <strong>durable</strong>, <strong>reliable</strong>, and <strong>efficient</strong> products to our clients, backed by excellent service and technical support. We aim to be a trusted partner for businesses looking for consistent and cost-effective component supply.</h6></div>"
+    },
+    "products": {
+        "banner": {
+            "img": "/imgs/products-banner-img.jpeg"
+        }
+    }
+}

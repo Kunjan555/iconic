@@ -1,0 +1,31 @@
+.banner{
+    height: 90vh;
+}
+.banner *{
+    color: #ffffff;
+}
+.banner .banner-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-image{
+    z-index: -1;
+}
+.banner::before {
+    content: "";
+    height: 100%;
+    width: 100%;
+    display: block;
+    opacity: 0.3;
+    background: #000000;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+}
+.banner .banner-content{
+    padding-top: 150px;
+}
+.inner-pages .banner{
+    height: 500px;;
+}
