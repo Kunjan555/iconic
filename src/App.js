@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFacebookF, faInstagram } from '@fortawesome/free-brands-svg-icons';
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Contact from './Pages/Contact';
@@ -123,8 +125,8 @@ function App() {
                 <div className="footer-social">
                   <h4 className="footer-title">Follow Us</h4>
                   <ul className="list-unstyled d-flex gap-4">
-                    <li><i className="fab fa-facebook"></i> Facebook</li>
-                    <li><i className="fab fa-instagram"></i> Instagram</li>
+                    <li><a href='https://www.facebook.com/profile.php?id=61578101009388' className='social-icon'><FontAwesomeIcon icon={faFacebookF} /></a></li>
+                    <li><a href='https://www.instagram.com/iconic_switchgear?igsh=MWxkeGh1aDJ4bThodg==' className='social-icon'><FontAwesomeIcon icon={faInstagram} /></a></li>
                   </ul>
                 </div>
               </div>

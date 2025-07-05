@@ -19,3 +19,26 @@
 .footer .copy-right{
     text-align: right;
 }
+.social-icon{
+    border: 2px solid #ffffff;
+    padding: 16px;
+    border-radius: 50%;
+    display: flex !important;
+    transition: all 0.5s ease-in-out;
+}
+.social-icon svg{
+    height: 30px;
+    width: 30px;
+    transition: all 0.5s ease-in-out;
+}
+.social-icon:hover, .social-icon:focus-visible{
+    border: 2px solid #1a2e3d;
+    background: #ffffff;
+}
+.social-icon:hover svg, .social-icon:focus-visible svg{
+    fill: #1a2e3d;
+    color: #1a2e3d;
+}
+.social-icon::after{
+    content: none !important;
+}
