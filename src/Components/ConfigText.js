@@ -8,7 +8,7 @@ const ConfigText = ({ html }) => {
             <div className="container-fluid">
                 <div className='row justify-content-center'>
                     <div className='col-12 col-lg-12'>
-                        <div className='config-text-content' dangerouslySetInnerHTML={{ __html: html }}></div>
+                        <div className='config-text-content' data-animate data-animation="fade-up" dangerouslySetInnerHTML={{ __html: html }}></div>
                     </div>
                 </div>
             </div>
