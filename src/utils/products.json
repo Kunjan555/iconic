@@ -1,5 +1,15 @@
 [
   {
+    "itemID": 0,
+    "title": "11 kv monoblock ABB, VD4 ",
+    "img":"/imgs/products/monoblock.jpeg"
+  },
+  {
+    "itemID": 0,
+    "title": "Fiber Sturd and Nut ",
+    "img":"/imgs/products/fiber-sturd-and-nut.jpeg"
+  },
+  {
     "itemID": 1,
     "title": "Capacitive Voltage Detecting Insulation",
     "img": "/imgs/products/capacitive voltage detecting insulation (2).png"

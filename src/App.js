@@ -122,7 +122,7 @@ function App() {
                 <h4 className="footer-title">Contact</h4>
                 <ul className="list-unstyled">
                   <li><i className="fas fa-map-marker-alt"></i> Plot: 13 - Akshar Township, Waghodia, Vadodara, Gujarat - 391760</li>
-                  <li><i className="fas fa-phone"></i> Phone: <a href='tel:+919898372645'>+91 9898372645</a></li>
+                  <li><i className="fas fa-phone"></i> Phone: <a href='tel:+919898372645'>+91 9898372645</a> | <a href='tel:+918320218239'>+91 8320218239</a></li>
                   <li><i className="fas fa-envelope"></i> Email: <a href='mailto:iconicswitchgear@gmail.com'>iconicswitchgear@gmail.com</a></li>
                 </ul>
               </div>
